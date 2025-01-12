@@ -150,7 +150,7 @@
       @sprites["pokemon"] = PokemonSprite.new(@viewport)
       @sprites["pokemon"].setOffset(PictureOrigin::CENTER)
       # Changed the position of Pokémon Battler
-      @sprites["pokemon"].x = 414
+      @sprites["pokemon"].x = 416
       @sprites["pokemon"].y = 208
       @sprites["pokemon"].setPokemonBitmap(@pokemon)
       @sprites["pokeicon"] = PokemonIconSprite.new(@pokemon, @viewport)
