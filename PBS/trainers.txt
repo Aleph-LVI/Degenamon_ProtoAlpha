@@ -139,3 +139,21 @@ Pokemon = CAMERUPT,20
     Nature = BRAVE
     IV = 0,0,0,0,0,0
     EV = 252,252,0,0,0,0
+#-------------------------------
+[LEADER_Ace1,Ace1]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
