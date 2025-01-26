@@ -140,13 +140,12 @@ Pokemon = CAMERUPT,20
     IV = 0,0,0,0,0,0
     EV = 252,252,0,0,0,0
 #-------------------------------
-[LEADER_Ace1,Ace1]
-Items = FULLRESTORE,FULLRESTORE
+[LEADER_Ace1,Ace1,1]
 LoseText = Very good.
 Pokemon = GEODUDE,12
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
     AbilityIndex = 0
-    Gender = male
+    Gender = female
     IV = 20,20,20,20,20,20
 Pokemon = ONIX,14
     Name = Rocky
@@ -158,7 +157,29 @@ Pokemon = ONIX,14
     Shiny = true
     Ball = HEAVYBALL
 #-------------------------------
-[LEADER_Ace2,Ace2]
+[LEADER_Ace1,Ace1,2]
+LoseText = Very good.
+Pokemon = ROGGENROLA,14
+    Moves = HARDEN,STEALTHROCK,SANDATTACK,MUDSLAP
+    AbilityIndex = 0
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = GEODUDE,14
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,16
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[LEADER_Ace2,Ace2,1]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very good.
 Pokemon = GEODUDE,12
