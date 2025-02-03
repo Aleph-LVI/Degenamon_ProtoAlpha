@@ -180,7 +180,23 @@ Pokemon = ONIX,16
     Ball = HEAVYBALL
 #-------------------------------
 [LEADER_Ace2,Ace2,1]
-Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+	#-------------------------------
+	[LEADER_Ace2,Ace2,2]
 LoseText = Very good.
 Pokemon = GEODUDE,12
     Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
