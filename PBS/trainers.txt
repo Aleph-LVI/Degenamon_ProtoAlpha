@@ -181,14 +181,14 @@ Pokemon = ONIX,16
 #-------------------------------
 [LEADER_Ace2,Ace2,1]
 LoseText = Very good.
-Pokemon = GEODUDE,12
-    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+Pokemon = BUDEW,14
+    Moves = POISONSTING,ABSORB,GROWTH,POISONPOWDER
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
-    Name = Rocky
-    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+Pokemon = TANGELA,16
+    Name = Viney
+    Moves = BIND,STUNSPORE,GROWTH,MEGADRAIN
     AbilityIndex = 0
     Item = SITRUSBERRY
     Gender = male
@@ -198,14 +198,19 @@ Pokemon = ONIX,14
 	#-------------------------------
 	[LEADER_Ace2,Ace2,2]
 LoseText = Very good.
-Pokemon = GEODUDE,12
-    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+Pokemon = BELLSPROUT,14
+    Moves = VINEWHIP,GROWTH,WRAP,SLEEPPOWDER
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
-Pokemon = ONIX,14
-    Name = Rocky
-    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+Pokemon = BUDEW,14
+    Moves = POISONSTING,MEGADRAIN,GROWTH,POISONPOWDER
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = TANGELA,16
+    Name = Viney
+    Moves = VINEWHIP,STUNSPORE,GROWTH,MEGADRAIN
     AbilityIndex = 0
     Item = SITRUSBERRY
     Gender = male
